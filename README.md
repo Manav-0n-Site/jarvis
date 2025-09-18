@@ -1,3 +1,9 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
 # 🤖 Jarvis AI Desktop Assistant  
 
 > **Made with ❤️ by Manav, a 17-year-old 12th grader passionate about building AI-powered projects.**  
